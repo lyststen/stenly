@@ -1,0 +1,6 @@
+type,preference
+show_alcohol,True
+show_dating,True
+show_gambling,True
+show_pregnancy_and_parenting,True
+show_weight_loss,True
